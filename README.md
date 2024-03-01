@@ -26,5 +26,7 @@ This README provides an overview of the Cache Bank website, focusing on the desi
 ### Feedback and Contributions
 Feedback and contributions to improve the accessibility, design, and usability of the Cache Bank website are welcome. Please feel free to submit issues or pull requests.
 
-### Suppoting
+### Supporting links
+Loom Link: https://www.loom.com/share/bbc4e17a7bfe4883b682b2e32b9fa8b2?sid=cb421706-59b7-4e1e-9eb9-37ccde77a0e4
+Presentation Slides: https://docs.google.com/presentation/d/1fmLpEaIxp4Xv3G0JuMauM8ZC7726Tbpy2Lhf5VEJ8ic/edit?usp=sharing
 
